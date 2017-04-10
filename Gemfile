@@ -45,3 +45,10 @@ group :development do
   gem 'spring'
 end
 
+
+group :production do
+  # Make the app Heroku ready
+  gem 'pg'
+  gem 'rails_12factor'
+end
+
