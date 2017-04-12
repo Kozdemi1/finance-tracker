@@ -1,0 +1,47 @@
+[33mcommit ba423e35b2a96b23705e1800840a64217432907a[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Wed Apr 12 04:57:46 2017 +0000
+
+    Add stoks and ajax for ui
+
+[33mcommit 1d20e566d83d712e3188dc8abd18855e4a54917f[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Mon Apr 10 16:43:49 2017 +0000
+
+    add devise and bootstrap for authentication views
+
+[33mcommit 31c28037bdc47c468050699534363ea7717b302b[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Mon Apr 10 16:20:59 2017 +0000
+
+    sqlite3 db fix for heroku v5
+
+[33mcommit ef5e3bfab1d5d721f4ba159e3b510686c08d8289[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Mon Apr 10 16:20:20 2017 +0000
+
+    sqlite3 db fix for heroku v4
+
+[33mcommit 57e6ad873f171d904d76f55265aa6ad48da0102b[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Mon Apr 10 16:19:04 2017 +0000
+
+    sqlite3 db fix for heroku v2
+
+[33mcommit e79824cc58f58135c0cf72b28cce51ada6719a52[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Mon Apr 10 16:15:06 2017 +0000
+
+    sqlite3 db fix for heroku
+
+[33mcommit cf42d146310cfbc3437aa89bc53e62456c522e70[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Mon Apr 10 15:46:28 2017 +0000
+
+    added index page
+
+[33mcommit c911dbc21a0bbc8b68c65e92b4fc12a93327bd43[m
+Author: Kaan git <kaan_ozdmr@hotmail.com>
+Date:   Mon Apr 10 15:13:31 2017 +0000
+
+    Initial commit
